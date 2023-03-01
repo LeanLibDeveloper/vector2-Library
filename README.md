@@ -11,6 +11,11 @@ See more at [The Documentation](https://github.com/LeanLibDeveloper/vector2-Libr
      ...
  }
  ```
+ 
+ * after installation you'll need to import the functions:
+```
+import { vector2Add vector2AddDir vector2AddX vector2AddY vector2Follow vector2Get vector2GoTo vector2Move vector2Set vector2SetDir vector2SetX vector2SetY } from "/vector2/index.js";
+```
 
 >## Changelog:
  * v4.2: Added vector2Follow() - Go to the X position and Y position of an Object
