@@ -1,7 +1,8 @@
 # Vector2-Library
-A library to control the position and direction of an object with javascript. Perfect for web games
+A library to control the position and direction of an object with javascript. Perfect for web games.
+See more at [The Documentation](https://github.com/LeanLibDeveloper/vector2-Library/blob/main/documentation.md#vector2-documentation)
 
-### Requirements:
+>## Requirements:
  * This requires JQuery to work
  * The object you want to use with vector2, must have a property called 'element' calling the DOM element
  ```
@@ -11,7 +12,7 @@ A library to control the position and direction of an object with javascript. Pe
  }
  ```
 
-## Changelog:
+>## Changelog:
  * v4.2: Added vector2Follow() - Go to the X position and Y position of an Object
  * v4.1: Optimized some functions
  * v4.0: Added vector2GoTo() - Go to X position and Y position
